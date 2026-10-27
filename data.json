@@ -1,0 +1,190 @@
+{
+    "data": [
+        {
+            "type": "crypto",
+            "timestamp": "2026-10-26 16:38:35",
+            "coin_id": "bitcoin",
+            "price_usd": 80449,
+            "change_24h": 0.3757500895114402
+        },
+        {
+            "type": "crypto",
+            "timestamp": "2026-10-26 16:38:35",
+            "coin_id": "ethereum",
+            "price_usd": 2331.74,
+            "change_24h": 0.35206167376133796
+        },
+        {
+            "type": "crypto",
+            "timestamp": "2026-10-26 16:38:35",
+            "coin_id": "solana",
+            "price_usd": 101.41,
+            "change_24h": 0.9048274380158375
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:39",
+            "book_key": "/works/OL457435W",
+            "title": "How Much Land Does a Man Need? and Other Stories",
+            "author": "Лев Толстой",
+            "first_publish_year": 1993
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:39",
+            "book_key": "/works/OL40459605W",
+            "title": "Muerte de Iván Ilich",
+            "author": "Лев Толстой",
+            "first_publish_year": 2016
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:39",
+            "book_key": "/works/OL15853559W",
+            "title": "What men live by",
+            "author": "Лев Толстой",
+            "first_publish_year": 1954
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:36",
+            "book_key": "/works/OL1657048W",
+            "title": "Batman",
+            "author": "Dennis O'Neil",
+            "first_publish_year": 1991
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:36",
+            "book_key": "/works/OL8134843W",
+            "title": "Tales of the Demon",
+            "author": "Dennis O'Neill",
+            "first_publish_year": 1992
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:36",
+            "book_key": "/works/OL2365951W",
+            "title": "Terror",
+            "author": "Moench, Doug.",
+            "first_publish_year": 1992
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:37",
+            "book_key": "/works/OL30977466W",
+            "title": "X-Men Coloring Book",
+            "author": "Wikkany Fans Club 111",
+            "first_publish_year": 2021
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:37",
+            "book_key": "/works/OL20018166W",
+            "title": "All-new X-Men",
+            "author": "Brian Michael Bendis",
+            "first_publish_year": 2015
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:37",
+            "book_key": "/works/OL5799450W",
+            "title": "Ultimate X-Men, Vol. 7",
+            "author": "Brian Michael Bendis, David Finch",
+            "first_publish_year": 2004
+        },
+        {
+            "type": "crypto",
+            "timestamp": "2026-10-26 16:38:49",
+            "coin_id": "bitcoin",
+            "price_usd": 80449,
+            "change_24h": 0.3757500895114402
+        },
+        {
+            "type": "crypto",
+            "timestamp": "2026-10-26 16:38:49",
+            "coin_id": "ethereum",
+            "price_usd": 2331.74,
+            "change_24h": 0.35206167376133796
+        },
+        {
+            "type": "crypto",
+            "timestamp": "2026-10-26 16:38:49",
+            "coin_id": "solana",
+            "price_usd": 101.41,
+            "change_24h": 0.9048274380158375
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:51",
+            "book_key": "/works/OL539156W",
+            "title": "The Spanish Revolution, 1931-39",
+            "author": "Leon Trotsky",
+            "first_publish_year": 1973
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:51",
+            "book_key": "/works/OL539158W",
+            "title": "Trotsky's Writings on Britain",
+            "author": "Leon Trotsky",
+            "first_publish_year": 1975
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:51",
+            "book_key": "/works/OL24391766W",
+            "title": "The History of the Russian Revolution to Brest-Litovsk",
+            "author": "Leon Trotsky",
+            "first_publish_year": 2002
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:52",
+            "book_key": "/works/OL5799406W",
+            "title": "New Avengers Vol. 4",
+            "author": "Brian Michael Bendis",
+            "first_publish_year": 2006
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:52",
+            "book_key": "/works/OL5799408W",
+            "title": "New Avengers Vol. 7",
+            "author": "Brian Michael Bendis",
+            "first_publish_year": 2008
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:52",
+            "book_key": "/works/OL37491621W",
+            "title": "The New Avengers 4",
+            "author": "Brian Michael Bendis",
+            "first_publish_year": 2008
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:53",
+            "book_key": "/works/OL19970648W",
+            "title": "Wolverine and the X-Men",
+            "author": "Jason Aaron",
+            "first_publish_year": 2013
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:53",
+            "book_key": "/works/OL21659796W",
+            "title": "Wolverine",
+            "author": "Barry Windsor-Smith",
+            "first_publish_year": 1993
+        },
+        {
+            "type": "book",
+            "timestamp": "2026-10-26 16:38:53",
+            "book_key": "/works/OL8898604W",
+            "title": "Spider-man",
+            "author": "Brett Matthews, Marvel Comics",
+            "first_publish_year": 2003
+        }
+    ]
+}
